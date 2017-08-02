@@ -14,8 +14,8 @@ impulseIn(1+impulseShift :delT+impulseShift ) = 1/delT;
 %% Construct step input
 delT = 1;
 impulseShift = 100;
-impulseIn = zeros(size(t));
-impulseIn(1+impulseShift :end ) = 1;
+stepIn = zeros(size(t));
+stepIn(1+impulseShift :end ) = 1;
 
 %% Instantiation
 x = zeros(size(t));
@@ -29,11 +29,12 @@ dy = zeros(size(t));
 %% Construct PI control
 in2 = zeros(size(t));
 I_in2 = zeros(size(t));
+in2(1)  = T(1)*impulseIn(1);
 for i = 2:(length(t))
-    I_in2(i) = I_in2(i-1) + I_in2(i);
-    in2(i)  = T(1) + I_in2(i);
-    dx(i+1) = (-x(i) + impulseIn(i))/T(1);
+    I_in2(i) = I_in2(i-1) + impulseIn(i);
+    in2(i)  = T(1)*impulseIn(i) + I_in2(i);
 end
+plot(t, I_in2)
 
 %% Construct stage 1
 for i = 1:(length(t)-1)
