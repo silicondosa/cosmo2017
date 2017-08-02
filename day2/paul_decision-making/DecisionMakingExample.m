@@ -27,7 +27,7 @@ for trial = 1:Nsim,
     %% EVALUATE THE OBSERVER MODEL 
     % brute force updating
     for t = 1:Tview
-        v_obs_t = v_obs(1:t); % Use samples up to t
+        % v_obs_t = v_obs(1:t); % Use samples up to t
         % integrating across time is equivalent to multiplying the
         % likelihoods at each time point
         liklihood_R = prod(fR(v_obs_t)); % Get prod likelihood on those samples
@@ -95,7 +95,8 @@ plot(mean(Pcomb_t,2)) % Average posteriors
 %%  2) How do you need to change the rule if 70% of trials are left?
 figure(4)
 
-thresh = ; % Threshold for evidence
+postRgX = 0.95;
+thresh = log(postRgX) - log(postRgX); % Threshold for evidence
 R = abs(LR_t)>thresh; % Whether evidence goes above threshold (1 = yes).
 PossibleTimes = repmat((1:Tview)',[1,Nsim]); % Possible response times - for each trial
 PostCriteriaTimes = R.*PossibleTimes;  
