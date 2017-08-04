@@ -13,4 +13,4 @@ ylabel('size of adaptation on next trial [cm]');
 
 %% now optimize this!
 
-[bestParas,MSE]=fminsearch(@cosmoFitCausal,[2.1 1],[],feedbacks, deviationsL1);
+[bestParas,MSE]=fminsearch(@cosmoFitCausal2,[2.1 1],[],feedbacks, deviationsL1);
