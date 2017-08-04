@@ -8,3 +8,6 @@ The importance of this question relates to the techniques that Neuroscientists u
 
 ## Konrad tutorial
 Refer notes for more.
+
+### Questions
+* Likelihood vs aposterior vs apriori
