@@ -10,7 +10,7 @@ function plot_psych_chron(oris, mods, cohs, choice, rt)
 
 
 %% plot settings
-ori_bounds = [-20 20];
+ori_bounds = [-2 2];
 
 
 %% check the data
