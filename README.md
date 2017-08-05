@@ -14,10 +14,15 @@ Changing the year number in the end can take you to other year's CoSMo wikis.
 * Plotting Neural Data (afternoon) - konradP2
 
 ## Day 2
-
+* Bayesian modelling and Cue combination - Konrad
+* Decision Making - Paul
+* How to Model? - Gunnar
 
 ## Day 3
-
+* Kalman Filters - Paul
+* Linear Systems Theory - Gunnar
+* Kalman LQG and Bayesian Nets - Paul + Konrad
+* Paper Writing 101 - Konrad - more info at http://klab.smpp.northwestern.edu/wiki/index.php5/Paper_Writing_101
 
 ## Day 4
 

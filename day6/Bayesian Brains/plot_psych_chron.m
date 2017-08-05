@@ -14,7 +14,7 @@ function plot_psych_chron(cohs, choice, rt)
 % rightwards (positive) or leftwards (negative). Use sign(cohs + 1e-6) to
 % extract this sign while avoiding sign(0) = 0 for 0-coherence trials.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% corr_choice = % TO BE COMPLETED, should be 0 for incorrect, 1 for correct
+corr_choice = 0.5 * (sign(cohs + 1e-6) + 1) == choice;% TO BE COMPLETED, should be 0 for incorrect, 1 for correct
 
 % group by absolute coherence
 abscohs = abs(cohs);
