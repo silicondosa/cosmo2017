@@ -41,7 +41,8 @@ Changing the year number in the end can take you to other year's CoSMo wikis.
 * Sprinkle some Game of Thrones (Season 7 - Episode 4) because it is 2017
 
 ## Day 7 (Aug 7, 2017)
-* q
+* Decision making and motor Control - Alaa Ahmed
+* Motor Control - Reza Shadmehr
 
 ## Day 8 (Aug 8, 2017)
 * w
