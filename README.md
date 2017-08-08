@@ -45,7 +45,7 @@ Changing the year number in the end can take you to other year's CoSMo wikis.
 * Motor Control - Reza Shadmehr
 
 ## Day 8 (Aug 8, 2017)
-* w
+* Separate systems for moving and holding still - Reza Shadmehr
 
 ## Day 9 (Aug 9, 2017)
 * e
