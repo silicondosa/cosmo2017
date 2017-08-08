@@ -37,8 +37,8 @@ Changing the year number in the end can take you to other year's CoSMo wikis.
 * The Bayesian Brain - Jan Drugowitsch
 
 ## Sunday (Aug 6, 2017)
-* Holiday! We ONLY (-\_-) have to work on our project all day
-* Sprinkle some Game of Thrones (Season 7 - Episode 4) because it is 2017
+* Holiday!
+* Watch some Game of Thrones (Season 7 - Episode 4) because it is 2017
 
 ## Day 7 (Aug 7, 2017)
 * Decision making and motor Control - Alaa Ahmed
