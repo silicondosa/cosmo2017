@@ -1,7 +1,7 @@
 # CoSMo Day 9
 * The speaker we have today is *Dagmar Sternad.* She will continue on day 10 as well.
 
-## *1.* Understanding Motor Disorders: A Task-Dynamic Approach
+## Understanding Motor Disorders: A Task-Dynamic Approach
 * Collins and Ruina (2004) has an interesting passive dynamic walker - how are they producing the repeated locomotion when there is NO controller or motor?
 * Definitions need to be precise - don't use words like 'often' or the 'either X or Y.'
 

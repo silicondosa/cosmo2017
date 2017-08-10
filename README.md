@@ -52,12 +52,12 @@ Changing the year number in the end can take you to other year's CoSMo wikis.
 
 
 ## Day 10 (Aug 10, 2017)
-* r
+* More about yesterday's tasks - just with different paradigms - Dagmar Sternad
 
 
 ## Day 11 (Aug 11, 2017)
-* t
+* Day given to us to complete our project
 
 
 ## Day 12 (Aug 12, 2017)
-* y
+* Project presentations begin 12:30 PM and will go on till 5 PM.
