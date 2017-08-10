@@ -48,7 +48,7 @@ Changing the year number in the end can take you to other year's CoSMo wikis.
 * Separate systems for moving and holding still - Reza Shadmehr
 
 ## Day 9 (Aug 9, 2017)
-* e
+* Understanding Motor Disorders: A Task-Dynamic Approach - Dagmar Sternad
 
 
 ## Day 10 (Aug 10, 2017)
