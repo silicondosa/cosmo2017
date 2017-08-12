@@ -1,5 +1,5 @@
-#CoSMo Day 1
-*
+# CoSMo Day 1
+* Need to fill up this section
 
 * Good Models - the what, scale and why good
 ** Izekevich Neuron - cell scale - simplicity
